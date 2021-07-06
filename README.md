@@ -13,7 +13,7 @@ A website with list of restaurant built with Node.js and Express
 ## Getting Started
 **Clone respository**
 ```
-$ git clone https://github.com/jilltu330/restaurant-list.git
+$ git clone https://github.com/Dino0403/Express_Restaurant.git
 ```
 **Install by npm**
 ```
